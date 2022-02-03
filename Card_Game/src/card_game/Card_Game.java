@@ -66,9 +66,9 @@ public class Card_Game {
         String response = match ? "Right guess" : "No match";
 
         System.out.println(response);
-        //printInfo();
+        printInfo();
     }
-      //public static void printInfo(){
-      // System.out.println("This is the end of my game. Hope you enjoyed!! ");
-    //}
+         public static void printInfo(){
+        System.out.println("This is the end of my game. Hope you enjoyed!! ");
+    }
 }
