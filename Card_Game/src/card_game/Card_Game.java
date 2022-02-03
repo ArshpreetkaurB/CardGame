@@ -69,6 +69,6 @@ public class Card_Game {
         printInfo();
     }
          public static void printInfo(){
-        System.out.println("This is the end of my game. Hope you enjoyed!! ");
+         System.out.println("This is the end of my game. Hope you enjoyed!! ");
     }
 }
